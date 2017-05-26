@@ -1,0 +1,27 @@
+{
+  "name": "@cosium-fork/soundjs",
+  "version": "0.6.2",
+  "publishConfig": {
+    "registry": "http://srv-203.cosium.com:4873"
+  },
+  "description": "SoundJS is a library to make working with audio on the web easier. It provides a consistent API for playing audio in\r different browsers, including using a target plugin model to provide an easy way to provide additional audio plugins\r like a Flash fallback. A mechanism has been provided for easily tying in audio preloading to\r [PreloadJS](http://createjs.com/preloadjs/).",
+  "main": "lib/soundjs-0.6.2.combined.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cosium/SoundJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cosium/SoundJS/issues"
+  },
+  "homepage": "https://github.com/Cosium/SoundJS#readme"
+}
